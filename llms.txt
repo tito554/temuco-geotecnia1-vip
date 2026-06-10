@@ -1,0 +1,39 @@
+# Geotecnia1 — Temuco
+
+> Geotechnical engineering services in Temuco, Chile.
+
+## Services
+- [Calicatas Exploratorias](https://temuco.geotecnia1.vip/calicatas-exploratorias/)
+- [Cimentaciones](https://temuco.geotecnia1.vip/cimentaciones/)
+- [Cimentaciones Superficiales](https://temuco.geotecnia1.vip/cimentaciones-superficiales/)
+- [Columnas Grava](https://temuco.geotecnia1.vip/columnas-grava/)
+- [Estabilidad Taludes](https://temuco.geotecnia1.vip/estabilidad-taludes/)
+- [Excavaciones Profundas](https://temuco.geotecnia1.vip/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://temuco.geotecnia1.vip/excavaciones-subterraneo/)
+- [Exploracion](https://temuco.geotecnia1.vip/exploracion/)
+- [Geofisica](https://temuco.geotecnia1.vip/geofisica/)
+- [Geotecnia Vial](https://temuco.geotecnia1.vip/geotecnia-vial/)
+- [Grouting](https://temuco.geotecnia1.vip/grouting/)
+- [Laboratorio In Situ](https://temuco.geotecnia1.vip/laboratorio-in-situ/)
+- [Laboratorio Lab](https://temuco.geotecnia1.vip/laboratorio-lab/)
+- [Limites Atterberg](https://temuco.geotecnia1.vip/limites-atterberg/)
+- [Losa De Cimentacion](https://temuco.geotecnia1.vip/losa-de-cimentacion/)
+- [Masw Vs30](https://temuco.geotecnia1.vip/masw-vs30/)
+- [Mejoramiento](https://temuco.geotecnia1.vip/mejoramiento/)
+- [Monitoreo Excavaciones](https://temuco.geotecnia1.vip/monitoreo-excavaciones/)
+- [Muros Contencion](https://temuco.geotecnia1.vip/muros-contencion/)
+- [Pavimento Rigido](https://temuco.geotecnia1.vip/pavimento-rigido/)
+- [Permeabilidad Campo](https://temuco.geotecnia1.vip/permeabilidad-campo/)
+- [Pilotes](https://temuco.geotecnia1.vip/pilotes/)
+- [Sondaje Spt](https://temuco.geotecnia1.vip/sondaje-spt/)
+- [Taludes](https://temuco.geotecnia1.vip/taludes/)
+- [Tomografia Sismica](https://temuco.geotecnia1.vip/tomografia-sismica/)
+- [Tuneles Suelo Blando](https://temuco.geotecnia1.vip/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://temuco.geotecnia1.vip/vibrocompactacion/)
+
+## Contact
+- Website: https://temuco.geotecnia1.vip/
+
+## About
+This site provides geotechnical engineering services in Temuco, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
